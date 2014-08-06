@@ -1,6 +1,6 @@
 /**
  * AngularJs-mailchimp
- * http://github.com/mawz2042/angularJs-mailchimper
+ * http://github.com/mawz2042/AngularJs-mailchimp
  * License: MIT
  */
 'use strict';
